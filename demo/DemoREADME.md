@@ -1,11 +1,12 @@
 
-  # **dddddddddddddddddddddddddddddddddd**
   
-  dddddddddddddddddddddddddddddddddddddddddddddddddddd
+  <h1 align="center">README.md Generator Using Node.js 👋</h1>
+  
+  Below is the gif showing the functionality of the application:
  
   ## Description 
   
-  dddddddddddddddddddddddddddddddddddddddddddd
+  🔍 A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory and can be found here
   ## Table of contents
   - [Description](#Description)
   - [Installation](#Installation)
@@ -16,14 +17,14 @@
   - [Repository Link](#Repository)
 
   ## Installation
- ddddddddddddddddddddddddddddddddddddddddddd
+ Below is the gif showing the functionality of the applicatio
   ## Usage
-  dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+  Below is the gif showing the functionality of the application:
   ## Licence
-  GPL 3.0
+  BSD 3
   ## Contributors
-  ddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+  Below is the gif showing the functionality of the application:
  
   ## Test
-  dddddddddddddddddddddddddddddddddddddddddddddddddddddd
+  🔍 A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory and can be found here
   
