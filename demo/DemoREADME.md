@@ -1,12 +1,12 @@
 
-  
 
-<h1 align="center">README.md Generator Using Node.js  👋</h1>
+<h1 align="center">Every good project needs a quality README with information about the app ✌️🤟🙏👋</h1>
+
 
   ## Description 
 
   
-  🔍 README.md Generator Using Node.js 
+  🔍 Every good project needs a quality README with information about the app
 
   *The what, why, and how:* 
  
@@ -24,16 +24,16 @@
 
 
   ## Installation
-  💽💽 README.md Generator Using Node.js 
+  💽💽 Every good project needs a quality README with information about the app
   ## UsageREADME.md Generator Using Node.js 
   *Instructions and examples for use:*
-  📚 README.md Generator Using Node.js 
+  📚 Every good project needs a quality README with information about the app
   ## Licence
   📝📑![badge](https://img.shields.io/badge/license-Academic-brightgreen)
   
   ## Contributors
-  💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾README.md Generator Using Node.js 
+  💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾Every good project needs a quality README with information about the app
  
   ## Test
-  README.md Generator Using Node.js 
+  Every good project needs a quality README with information about the app
   
