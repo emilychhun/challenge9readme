@@ -2,23 +2,15 @@ module.exports = generatePage;
 
 function generatePage(data) {
     return `
-  
-  <h1 align="center">${data.Title} 👋</h1>
-  
-  const params = {
-    show_icons: true,
-    ...(options.theme && options.theme !== "none") && { theme: options.theme },
-    ...options.titleColor && { "title_color": options.titleColor },
-    ...options.textColor && { "text_color": options.textColor},
-    ...options.bgColor && { "bg_color": options.bgColor},
-    ...options.hideBorder && { "hide_border": options.hideBorder},
-    ...options.cacheSeconds && { "cache_seconds": options.cacheSeconds},
-    ...options.locale && { "locale": options.locale},
-  }
+
  
   ## Description 
   
   ${data.Description}
+
+  *The what, why, and how:* 
+ 
+ 
   ## Table of contents
   - [Description](#Description)
   - [Installation](#Installation)
@@ -31,6 +23,7 @@ function generatePage(data) {
   ## Installation
  ${data.installation}
   ## Usage
+  *Instructions and examples for use:*
   ${data.usage}
   ## Licence
   ${data.license}
