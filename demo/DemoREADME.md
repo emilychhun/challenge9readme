@@ -1,12 +1,21 @@
 
   
-  <h1 align="center">README.md Generator Using Node.js 👋</h1>
+  <h1 align="center">Below is the gif showing the functionality of the application: 👋</h1>
   
-  Below is the gif showing the functionality of the application:
+  const params = {
+    show_icons: true,
+    ...(options.theme && options.theme !== "none") && { theme: options.theme },
+    ...options.titleColor && { "title_color": options.titleColor },
+    ...options.textColor && { "text_color": options.textColor},
+    ...options.bgColor && { "bg_color": options.bgColor},
+    ...options.hideBorder && { "hide_border": options.hideBorder},
+    ...options.cacheSeconds && { "cache_seconds": options.cacheSeconds},
+    ...options.locale && { "locale": options.locale},
+  }
  
   ## Description 
   
-  🔍 A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory and can be found here
+  Below is the gif showing the functionality of the application:
   ## Table of contents
   - [Description](#Description)
   - [Installation](#Installation)
@@ -17,14 +26,14 @@
   - [Repository Link](#Repository)
 
   ## Installation
- Below is the gif showing the functionality of the applicatio
+ Below is the gif showing the functionality of the application:
   ## Usage
   Below is the gif showing the functionality of the application:
   ## Licence
-  BSD 3
+  MIT
   ## Contributors
   Below is the gif showing the functionality of the application:
  
   ## Test
-  🔍 A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory and can be found here
+  Below is the gif showing the functionality of the application:
   
