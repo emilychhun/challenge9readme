@@ -4,14 +4,7 @@ function generatePage(data) {
     return `
   
 
-
-
-
-
-   
-    
-
-
+<h1 align="center">${data.Title} 👋</h1>
 
   ## Description 
 
@@ -31,13 +24,11 @@ function generatePage(data) {
   - [Repository Link](#Repository)
 
 
-  <h1 align="center">${data.Title} 👋</h1>
-
 
 
   ## Installation
   💽💽 ${data.installation}
-  ## Usage
+  ## UsageREADME.md Generator Using Node.js 
   *Instructions and examples for use:*
   📚 ${data.usage}
   ## Licence

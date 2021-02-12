@@ -1,19 +1,12 @@
 
   
 
-
-
-
-
-   
-    
-
-
+<h1 align="center">README.md Generator Using Node.js  👋</h1>
 
   ## Description 
 
   
-  🔍 This is a command-line application that runs with Node.js that dynamically generates a README.md 
+  🔍 README.md Generator Using Node.js 
 
   *The what, why, and how:* 
  
@@ -28,13 +21,11 @@
   - [Repository Link](#Repository)
 
 
-  <h1 align="center">emilu 👋</h1>
-
 
 
   ## Installation
   💽💽 README.md Generator Using Node.js 
-  ## Usage
+  ## UsageREADME.md Generator Using Node.js 
   *Instructions and examples for use:*
   📚 README.md Generator Using Node.js 
   ## Licence
