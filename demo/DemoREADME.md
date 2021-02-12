@@ -1,16 +1,16 @@
 
   
-  
-    <h1 align="center">g ✌️🤟🙏</h1>
+    <h1 align="center">README.md Generator Using Node.js  ✌️🤟🙏👋</h1>
+
    
-    ![badge](https://img.shields.io/badge/license-MIT}-brightgreen)<br />
+    ![badge](https://img.shields.io/badge/license-Academic}-brightgreen)<br />
 
   
 
   ## Description 
 
   
-  🔍 j
+  🔍 Every good project needs a quality README with information about the app - what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project.
 
   *The what, why, and how:* 
  
@@ -25,16 +25,16 @@
   - [Repository Link](#Repository)
 
   ## Installation
-  💽💽 k
+  💽💽 This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
   ## Usage
   *Instructions and examples for use:*
-  📚 jk
+  📚 Every good project needs a quality README with information about the app - what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project.
   ## Licence
-  📝📑![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+  📝📑![badge](https://img.shields.io/badge/license-Academic-brightgreen)
   
   ## Contributors
-  💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾k
+  💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾family
  
   ## Test
-  k
+  no tes
   

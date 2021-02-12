@@ -3,8 +3,8 @@ module.exports = generatePage;
 function generatePage(data) {
     return `
   
-  
-    <h1 align="center">${data.Title} ✌️🤟🙏</h1>
+    <h1 align="center">${data.Title} ✌️🤟🙏👋</h1>
+
    
     ![badge](https://img.shields.io/badge/license-${data.license}}-brightgreen)<br />
 
