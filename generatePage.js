@@ -3,7 +3,11 @@ module.exports = generatePage;
 function generatePage(data) {
     return `
   
- ## ${data.Title} ✌️🤟🙏👋
+
+
+
+
+    <h1 align=center"> ${data.Title} ✌️🤟🙏👋</h1>
 
    
     
