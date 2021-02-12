@@ -1,6 +1,6 @@
 
   
-    <h1 align="center">This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th ✌️🤟🙏👋</h1>
+ ## is is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th ✌️🤟🙏👋
 
    
     
@@ -10,7 +10,7 @@
   ## Description 
 
   
-  🔍 This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
+  🔍 is is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
 
   *The what, why, and how:* 
  
@@ -25,16 +25,16 @@
   - [Repository Link](#Repository)
 
   ## Installation
-  💽💽 This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
+  💽💽 is is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
   ## Usage
   *Instructions and examples for use:*
-  📚 This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
+  📚 is is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
   ## Licence
-  📝📑![badge](https://img.shields.io/badge/license-Open-brightgreen)
+  📝📑![badge](https://img.shields.io/badge/license-Academic-brightgreen)
   
   ## Contributors
-  💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
+  💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾is is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
  
   ## Test
-  This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
+  is is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
   
