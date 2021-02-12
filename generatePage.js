@@ -2,8 +2,9 @@ module.exports = generatePage;
 
 function generatePage(data) {
     return `
-
- 
+    <h1 align="center">${data.Title} 👋</h1>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON NAME].svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[ICON NAME].svg" />
   ## Description 
   
   ${data.Description}
