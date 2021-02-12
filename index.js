@@ -110,7 +110,7 @@ validate:  nameInput3 =>{
 {
     type: "input",
     name: "badge",
-    message: "Please provide the badges links that you want.",
+    message: "Please provide the badges links that you want",
     validate:  nameInput7 =>{
         if (nameInput7){
             return true;

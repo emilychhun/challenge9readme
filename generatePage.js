@@ -7,7 +7,7 @@ function generatePage(data) {
 
 
 
-    <h1 align="center"> ${data.Title} ✌️🤟🙏👋</h1>
+    ##<H1> ${data.Title} ✌️🤟🙏👋</H1>
 
    
     
