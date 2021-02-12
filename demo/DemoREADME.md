@@ -4,7 +4,6 @@
 
 
 
-    ##<H1> This is a command-line application that runs with Node.js that dynamically generates a README.md  ✌️🤟🙏👋</H1>
 
    
     
@@ -28,17 +27,22 @@
   - [Test](#Test)
   - [Repository Link](#Repository)
 
+
+  <h1 align="center">emilu 👋</h1>
+
+
+
   ## Installation
-  💽💽 This is a command-line application that runs with Node.js that dynamically generates a README.md 
+  💽💽 README.md Generator Using Node.js 
   ## Usage
   *Instructions and examples for use:*
-  📚 This is a command-line application that runs with Node.js that dynamically generates a README.md 
+  📚 README.md Generator Using Node.js 
   ## Licence
-  📝📑![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+  📝📑![badge](https://img.shields.io/badge/license-Academic-brightgreen)
   
   ## Contributors
-  💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾This is a command-line application that runs with Node.js that dynamically generates a README.md 
+  💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾README.md Generator Using Node.js 
  
   ## Test
-  This is a command-line application that runs with Node.js that dynamically generates a README.md 
+  README.md Generator Using Node.js 
   

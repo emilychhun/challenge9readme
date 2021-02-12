@@ -7,7 +7,6 @@ function generatePage(data) {
 
 
 
-    ##<H1> ${data.Title} ✌️🤟🙏👋</H1>
 
    
     
@@ -30,6 +29,11 @@ function generatePage(data) {
   - [Contributors](#Contributors)
   - [Test](#Test)
   - [Repository Link](#Repository)
+
+
+  <h1 align="center">${data.Title} 👋</h1>
+
+
 
   ## Installation
   💽💽 ${data.installation}
