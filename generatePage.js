@@ -2,12 +2,17 @@ module.exports = generatePage;
 
 function generatePage(data) {
     return `
-    <h1 align="center">${data.Title} 👋</h1>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON NAME].svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[ICON NAME].svg" />
-  ## Description 
   
-  ${data.Description}
+  
+    <h1 align="center">${data.Title} ✌️🤟🙏</h1>
+   
+
+  
+
+  ## Description 
+
+  
+  🔍 ${data.Description}
 
   *The what, why, and how:* 
  
@@ -22,14 +27,15 @@ function generatePage(data) {
   - [Repository Link](#Repository)
 
   ## Installation
- ${data.installation}
+  💽💽 ${data.installation}
   ## Usage
   *Instructions and examples for use:*
-  ${data.usage}
+  📚 ${data.usage}
   ## Licence
-  ${data.license}
+  📝📑![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+  
   ## Contributors
-  ${data.contributing}
+  💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾${data.contributing}
  
   ## Test
   ${data.test}
