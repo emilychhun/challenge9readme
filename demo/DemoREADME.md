@@ -1,16 +1,16 @@
 
   
-    <h1 align="center">Every good project needs a quality README with information about the app - what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. ✌️🤟🙏👋</h1>
+    <h1 align="center">This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th ✌️🤟🙏👋</h1>
 
    
-    ![badge](https://img.shields.io/badge/license-Academic}-brightgreen)<br />
+    
 
   
 
   ## Description 
 
   
-  🔍 This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in thj
+  🔍 This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
 
   *The what, why, and how:* 
  
@@ -25,15 +25,15 @@
   - [Repository Link](#Repository)
 
   ## Installation
-  💽💽 Every good project needs a quality README with information about the app - what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project.
+  💽💽 This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
   ## Usage
   *Instructions and examples for use:*
   📚 This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
   ## Licence
-  📝📑![badge](https://img.shields.io/badge/license-Academic-brightgreen)
+  📝📑![badge](https://img.shields.io/badge/license-Open-brightgreen)
   
   ## Contributors
-  💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾Every good project needs a quality README with information about the app - what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project.
+  💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
  
   ## Test
   This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. Check out the ExampleREADME.md in th
