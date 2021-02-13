@@ -1,12 +1,12 @@
 
 
-<h1 align="center">Every good project needs a quality README with information about the app ✌️🤟🙏👋</h1>
+<h1 align="center">README.md File Generator ✌️🤟🙏👋</h1>
 
 
   ## Description 
 
   
-  🔍 Every good project needs a quality README with information about the app
+  🔍 Compassion disrupt data empower communities deep dive. 
 
   *The what, why, and how:* 
  
@@ -24,16 +24,25 @@
 
 
   ## Installation
-  💽💽 Every good project needs a quality README with information about the app
+  💽💽 Compassion disrupt data empower communities deep dive. 
   ## UsageREADME.md Generator Using Node.js 
   *Instructions and examples for use:*
-  📚 Every good project needs a quality README with information about the app
+  📚 Cultivate program area co-create; program areas; indicators relief social impact.
   ## Licence
   📝📑![badge](https://img.shields.io/badge/license-Academic-brightgreen)
   
   ## Contributors
-  💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾Every good project needs a quality README with information about the app
+  💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾Communities to, greenwashing move the needle commitment systems thinking circular; contextualize equal.
  
   ## Test
-  Every good project needs a quality README with information about the app
+  Cultivate program area co-create; program areas; indicators relief social impact.
+
+  ## Questions
+  *✋For any questions, please contact me with the information below:
+  <br />
+  :octocat: Find me on GitHub: [emilychhun](https://github.com/emilychhun)<br />
+  <br />
+
+
+
   

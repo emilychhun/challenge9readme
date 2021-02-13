@@ -86,7 +86,7 @@ validate:  nameInput3 =>{
 {
     type: "input",
     name: "installation",
-    message: "Please provide the installation instructions",
+    message: "If applicable, describe the steps required to install your project for the Installation section",
     validate:  nameInput5 =>{
         if (nameInput5){
             return true;
@@ -152,7 +152,7 @@ validate:  nameInput3 =>{
 {
     type: "input",
         name: "usage",
-        message: "Please provide the project usage",
+        message: "Provide instructions and examples of your project in use for the Usage section.",
     validate:  nameInput9 =>{
         if (nameInput9){
             return true;

@@ -39,5 +39,14 @@ function generatePage(data) {
  
   ## Test
   ${data.test}
+
+  ## Questions
+  *✋For any questions, please contact me with the information below:
+  <br />
+  :octocat: Find me on GitHub: [${data.UserName}](https://github.com/${data.UserName})<br />
+  <br />
+
+
+
   `;
   }
