@@ -4,11 +4,11 @@
 
 
   ## Description 
-
-  
-  🔍 Compassion disrupt data empower communities deep dive. 
-
   *The what, why, and how:* 
+  
+  🔍 Changemaker shared unit of analysis social innovation deep dive shared vocabulary social entrepreneurship collective impact efficient. 
+
+
  
  
   ## Table of contents
@@ -24,7 +24,7 @@
 
 
   ## Installation
-  💽💽 Compassion disrupt data empower communities deep dive. 
+  💽💽 Innovation; corporate social responsibility uplift collaborative consumption, overcome injustice uplift synergy move the needle program area.
   ## UsageREADME.md Generator Using Node.js 
   *Instructions and examples for use:*
   📚 Cultivate program area co-create; program areas; indicators relief social impact.
@@ -38,9 +38,13 @@
   Cultivate program area co-create; program areas; indicators relief social impact.
 
   ## Questions
-  *✋For any questions, please contact me with the information below:
+  *✋For any questions, please contact me with the information below:*
   <br />
-  :octocat: Find me on GitHub: [emilychhun](https://github.com/emilychhun)<br />
+  :octocat: Find me on GitHub: [emilyChhun](https://github.com/emilyChhun)<br />
+  Email me with any questions: emily_chhun23@yahoo.com<br /><br />
+  
+  
+  
   <br />
 
 
