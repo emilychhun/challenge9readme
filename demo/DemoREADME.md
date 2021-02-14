@@ -39,22 +39,6 @@
   
 💽💽 In order to use the application, the user will need to have node.js installed and then will need to clone the repository into the command line. Once the repository has been cloned, the user will need to change directories into the repository and run the command "npm install" in order to retrieve the neccessary dependencies.
 
-<<<<<<< HEAD
-<br />
-  
-  
-  ## Usage
-  *Instructions and examples for use:*
-  
-  📚 After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required fields and select from optional additional fields. The README will be created in the ./dist folder.
-  
-  *Demo*
-  View a demonstration of the application:
-
-  <br />
-  
-  
-=======
 
   ## Installation
   *Steps required to install project and how to get the development environment running:
@@ -67,7 +51,6 @@
   *Instructions and examples for use:*
   📚 In order to use the application, the user will need to have node.js installed and then will need to clone the repository into the command line. Once the repository has been cloned, the user will need to change directories into the repository and run the command "npm install" in order to retrieve the neccessary dependencies.
   ![alt text](https://github.com/emilychhun/challenge9readme/blob/main/generator-emily.gif "Logo Title Text 1")
->>>>>>> 484d4f9f3bb3de09862be5f677381f55524ad1a7
   ## Licence
   📝📑![badge](https://img.shields.io/badge/license-Academic-brightgreen)
 
