@@ -57,7 +57,9 @@ function generatePage(data) {
   
   
   ## Licence
-  📝📑![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+  📝📑
+  
+  ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
 
   <br />
   
