@@ -21,8 +21,8 @@
   🔍 In order to use the application, the user will need to have node.js installed and then will need to clone the repository into the command line. Once the repository has been cloned, the user will need to change directories into the repository and run the command "npm install" in order to retrieve the neccessary dependencies.
 
 
+![alt text](https://github.com/emilychhun/challenge9readme/blob/main/generator-emily.gif "Logo Title Text 1")
 
-<a href="https://github.com/emilychhun/challenge9readme/blob/main/generator-emily.gif"
 
 
 
