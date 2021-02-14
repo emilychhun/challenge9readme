@@ -86,7 +86,7 @@ validate:  nameInput3 =>{
 {
     type: "input",
     name: "installation",
-    message: "If applicable, describe the steps required to install your project for the Installation section",
+    message: "If applicable, describe the steps required to install your project for the Installation section.",
     validate:  nameInput5 =>{
         if (nameInput5){
             return true;
@@ -98,7 +98,7 @@ validate:  nameInput3 =>{
 {
            type: "input",
         name: "test",
-        message: "Please provide the project tests",
+        message: "Please provide the project tests.",
     validate:  nameInput6 =>{
         if (nameInput6){
             return true;
@@ -110,15 +110,8 @@ validate:  nameInput3 =>{
 {
     type: "input",
     name: "badge",
-    message: "Please provide the badges links that you want",
-    validate:  nameInput7 =>{
-        if (nameInput7){
-            return true;
-        }else{
-            console.log('Please enter your name!');
-        }
-    }
-
+    message: "Please provide the badges links that you want.",
+ 
 },
 {
     type: "input",
@@ -137,7 +130,7 @@ validate:  nameInput3 =>{
 {
     type: "input",
     name: "contributing",
-    message: "Please provide the contributing parties",
+    message: "Please provide the contributing parties.",
     validate:  nameInput9 =>{
         if (nameInput9){
             return true;
@@ -157,7 +150,7 @@ validate:  nameInput3 =>{
         if (nameInput9){
             return true;
         }else{
-            console.log('Please provide the contributing parties!');
+            console.log('Please provide instructions and example of your project in use for the usge section!');
         }
     }
 

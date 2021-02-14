@@ -24,7 +24,7 @@ function generatePage(data) {
   
   🔍 ${data.Description}
 
- 
+  <br />
  
   ## Table of contents
   - [Description](#Description)
@@ -35,34 +35,59 @@ function generatePage(data) {
   - [Test](#Test)
   - [Repository Link](#Repository)
 
+  <br />
 
+ ## Installation
+  *Steps required to install project and how to get the development environment running:*
+  
+💽💽 ${data.installation}
 
-
-  ## Installation
-  *Steps required to install project and how to get the development environment running:
-  💽💽 ${data.installation}
-  ## UsageREADME.md Generator Using Node.js 
+<br />
+  
+  
+  ## Usage
   *Instructions and examples for use:*
+  
   📚 ${data.usage}
+  
+  *Demo*
+  View a demonstration of the application:
+
+  <br />
+  
+  
   ## Licence
   📝📑![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+
+  <br />
   
+ 
   ## Contributors
   💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾${data.contributing}
+
+  <br />
+ 
  
   ## Test
-  * Tests for application and how to run them:
-  ${data.test}
+   *Tests for application and how to run them:*
+ 
+   ${data.test}
 
+  <br />
+
+ 
   ## Questions
   <br />
-  * ✋For any questions, please contact me with the information below:*
+
+   *✋For any questions, please contact me with the information below:*
   <br />
 
-  Find me on GitHub:(https://github.com/${data.UserName})<br />
-  Email me with any questions: ${data.email}<br /><br />
-  
-  
+ Find me on GitHub: [${data.UserName}](https://github.com/${data.UserName})
+
+ <br />
+  Email me with any questions: ${data.email}
+  <br /><br />
+  repo link: ${data.email}
   
   <br />
 
