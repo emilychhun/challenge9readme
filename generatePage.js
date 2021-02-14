@@ -4,20 +4,23 @@ function generatePage(data) {
     return `
 
 <h1 align="center">✌️🤟🙏👋${data.Title} ✌️🤟🙏👋</h1>
+
+<p align="center">
+
 ![badge](https://img.shields.io/npm/v/npm.svg?logo=javascript)
 ![badge](https://img.shields.io/npm/v/npm.svg?logo=npm)
-![badge](/amo/stars/:addonId)
-![badge](/node/v-lts/@:scope/:packageName/:tag?registry_uri=https%3A%2F%2Fregistry.npmjs.com)
+[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+[![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
 ![badge](https://img.shields.io/static/v1?logo=react&message=React&color=Blue)
 ![badge](https://img.shields.io/npm/v/npm.svg?logo=javascript)
 
-
+</p>
   ## Description 
   *The what, why, and how:* 
   
   🔍 ${data.Description}
 
-  ![Emily Generator](./generator-emilychhun.gif)
+  ![](./generator-emilychhun.js)
  
  
   ## Table of contents
@@ -45,14 +48,15 @@ function generatePage(data) {
   💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾${data.contributing}
  
   ## Test
-  *Tests for application and how to run them:
+  * Tests for application and how to run them:
   ${data.test}
 
   ## Questions
   <br />
-  *✋For any questions, please contact me with the information below:*
+  * ✋For any questions, please contact me with the information below:*
   <br />
-  Find me on GitHub: [${data.UserName}](https://github.com/${data.UserName})<br />
+
+  Find me on GitHub:(https://github.com/${data.UserName})<br />
   Email me with any questions: ${data.email}<br /><br />
   
   
