@@ -4,12 +4,12 @@ function generatePage(data) {
     return `
 
 <h1 align="center">✌️🤟🙏👋${data.Title} ✌️🤟🙏👋</h1>
-![badge]( https://img.shields.io/npm/v/npm.svg?logo=javascript)
-![badge]( https://img.shields.io/npm/v/npm.svg?logo=npm)
-![badge]( /amo/stars/:addonId)
-![badge]( /node/v-lts/@:scope/:packageName/:tag?registry_uri=https%3A%2F%2Fregistry.npmjs.com)
-![badge]( https://img.shields.io/static/v1?logo=react&message=React&color=Blue)
-![badge]( https://img.shields.io/npm/v/npm.svg?logo=javascript)
+![badge](https://img.shields.io/npm/v/npm.svg?logo=javascript)
+![badge](https://img.shields.io/npm/v/npm.svg?logo=npm)
+![badge](/amo/stars/:addonId)
+![badge](/node/v-lts/@:scope/:packageName/:tag?registry_uri=https%3A%2F%2Fregistry.npmjs.com)
+![badge](https://img.shields.io/static/v1?logo=react&message=React&color=Blue)
+![badge](https://img.shields.io/npm/v/npm.svg?logo=javascript)
 
 
   ## Description 
@@ -17,7 +17,7 @@ function generatePage(data) {
   
   🔍 ${data.Description}
 
-
+  ![Emily Generator](./generator-emilychhun.gif)
  
  
   ## Table of contents
