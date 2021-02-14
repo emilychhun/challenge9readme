@@ -3,7 +3,13 @@ module.exports = generatePage;
 function generatePage(data) {
     return `
 
-<h1 align="center">${data.Title} ✌️🤟🙏👋</h1>
+<h1 align="center">✌️🤟🙏👋${data.Title} ✌️🤟🙏👋</h1>
+![badge]( https://img.shields.io/npm/v/npm.svg?logo=javascript)
+![badge]( https://img.shields.io/npm/v/npm.svg?logo=npm)
+![badge]( /amo/stars/:addonId)
+![badge]( /node/v-lts/@:scope/:packageName/:tag?registry_uri=https%3A%2F%2Fregistry.npmjs.com)
+![badge]( https://img.shields.io/static/v1?logo=react&message=React&color=Blue)
+![badge]( https://img.shields.io/npm/v/npm.svg?logo=javascript)
 
 
   ## Description 
@@ -27,6 +33,7 @@ function generatePage(data) {
 
 
   ## Installation
+  *Steps required to install project and how to get the development environment running:
   💽💽 ${data.installation}
   ## UsageREADME.md Generator Using Node.js 
   *Instructions and examples for use:*
@@ -38,12 +45,14 @@ function generatePage(data) {
   💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾${data.contributing}
  
   ## Test
+  *Tests for application and how to run them:
   ${data.test}
 
   ## Questions
+  <br />
   *✋For any questions, please contact me with the information below:*
   <br />
-  :octocat: Find me on GitHub: [${data.UserName}](https://github.com/${data.UserName})<br />
+  Find me on GitHub: [${data.UserName}](https://github.com/${data.UserName})<br />
   Email me with any questions: ${data.email}<br /><br />
   
   
