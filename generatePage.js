@@ -23,7 +23,7 @@ function generatePage(data) {
   *The what, why, and how:* 
   
   🔍 ${data.Description}
-
+ *Check out the [ExampleREADME.md](https://github.com/emilychhun/challenge9readme/blob/main/demo/DemoREADME.md) as ab example.*
   <br />
  
   ## Table of contents
@@ -87,9 +87,10 @@ function generatePage(data) {
  Find me on GitHub: [${data.UserName}](https://github.com/${data.UserName})
 
  <br />
+
   Email me with any questions: ${data.email}
   <br /><br />
-  
+
   repo link: [readme-repo-link](https://github.com/emilychhun/challenge9readme)
   
   <br />
