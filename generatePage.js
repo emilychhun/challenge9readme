@@ -23,7 +23,7 @@ function generatePage(data) {
   *The what, why, and how:* 
   
   🔍 ${data.Description}
- *Check out the [ExampleREADME.md](https://github.com/emilychhun/challenge9readme/blob/main/demo/DemoREADME.md) as ab example.*
+ *Check out the [ExampleREADME.md](https://github.com/emilychhun/challenge9readme/blob/main/demo/DemoREADME.md) as an example.*
   <br />
  
   ## Table of contents
@@ -71,7 +71,7 @@ function generatePage(data) {
  
  
   ## Test
-   *Tests for application and how to run them:*
+  🥇 *Tests for application and how to run them:*
  
    ${data.test}
 
