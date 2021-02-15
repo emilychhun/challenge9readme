@@ -49,6 +49,7 @@
   
   *Demo*
   View a demonstration of the application:
+  
 ![alt text](https://github.com/emilychhun/challenge9readme/blob/main/generator-emily.gif "Logo Title Text 1")
 
   <br />
