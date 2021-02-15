@@ -117,15 +117,7 @@ validate:  nameInput3 =>{
     type: "input",
     name: "repo",
     message: "What is your repo link?",
-    validate:  nameInput8 =>{
-        if (nameInput8){
-            return true;
-        }else{
-            console.log('Please enter your name!');
-        }
-    }
-
-
+  
 },
 {
     type: "input",
@@ -146,15 +138,7 @@ validate:  nameInput3 =>{
     type: "input",
         name: "usage",
         message: "Provide instructions and examples of your project in use for the Usage section.",
-    validate:  nameInput9 =>{
-        if (nameInput9){
-            return true;
-        }else{
-            console.log('Please provide instructions and example of your project in use for the usge section!');
-        }
-    }
-
-
+   
 },   
 
 ];

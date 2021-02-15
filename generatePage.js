@@ -89,7 +89,8 @@ function generatePage(data) {
  <br />
   Email me with any questions: ${data.email}
   <br /><br />
-  repo link: ${data.email}
+  
+  repo link: [readme-repo-link](https://github.com/emilychhun/challenge9readme)
   
   <br />
 

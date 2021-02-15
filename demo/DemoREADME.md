@@ -50,10 +50,9 @@
   *Demo*
   View a demonstration of the application:
 
-
- ![alt text](https://github.com/emilychhun/challenge9readme/blob/main/generator-emily.gif "Logo Title Text 1")
   <br />
-
+  
+  
   ## Licence
   📝📑
   
@@ -87,7 +86,8 @@
  <br />
   Email me with any questions: emily_chhun23@yahoo.com
   <br /><br />
-  repo link: emily_chhun23@yahoo.com
+  
+  repo link: [readme-repo-link](https://github.com/emilychhun/challenge9readme)
   
   <br />
 
