@@ -2,9 +2,7 @@ module.exports = generatePage;
 
 function generatePage(data) {
     return `
-
 <h1 align="center">✌️🤟🙏👋${data.Title} ✌️🤟🙏👋</h1>
-
 <h1 align="center">
 
 ![badge](https://img.shields.io/npm/v/npm.svg?logo=javascript)
@@ -18,11 +16,12 @@ function generatePage(data) {
  </a>
 </h1>
 
-
 ## Description 
+
   *The what, why, and how:* 
   
   🔍 ${data.Description}
+
  *Check out the [ExampleREADME.md](https://github.com/emilychhun/challenge9readme/blob/main/demo/DemoREADME.md) as an example.*
   <br />
  
@@ -34,10 +33,11 @@ function generatePage(data) {
   - [Contributors](#Contributors)
   - [Test](#Test)
   - [Repository Link](#Repository)
-
+ 
   <br />
 
  ## Installation
+
   *Steps required to install project and how to get the development environment running:*
   
 💽💽 ${data.installation}
@@ -51,22 +51,21 @@ function generatePage(data) {
   📚 ${data.usage}
   
   *Demo*
-  View a demonstration of the application:
 
+  View a demonstration of the application:
   <br />
   
+  ![alt text](https://github.com/emilychhun/challenge9readme/blob/main/READMe-generator-emily1.gif "Logo Title Text 1")
   
   ## Licence
   📝📑
   
   ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
-
   <br />
   
  
   ## Contributors
   💆🏽💆🏻‍♂️👳🏽👳🏽👳🏻‍♀️👨🏾‍🦽👨🏿‍🤝‍👨🏾${data.contributing}
-
   <br />
  
  
@@ -74,9 +73,7 @@ function generatePage(data) {
   🥇 *Tests for application and how to run them:*
  
    ${data.test}
-
   <br />
-
  
   ## Questions
   <br />
@@ -85,17 +82,13 @@ function generatePage(data) {
   <br />
 
  Find me on GitHub: [${data.UserName}](https://github.com/${data.UserName})
-
  <br />
 
   Email me with any questions: ${data.email}
-  <br /><br />
+  <br />
 
   repo link: [readme-repo-link](https://github.com/emilychhun/challenge9readme)
   
   <br />
-
-
-
   `;
   }
