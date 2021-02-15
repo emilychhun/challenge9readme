@@ -52,7 +52,7 @@
 
   <br />
   
-  ![alt text](https://github.com/emilychhun/challenge9readme/blob/main/READMe-generator-emily.mp4 "Logo Title Text 1")
+![alt text](https://github.com/emilychhun/challenge9readme/blob/main/READMe-generator-emily.mp4 "Logo Title Text 1")
   
   
   ## Licence
