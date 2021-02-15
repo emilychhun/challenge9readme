@@ -45,7 +45,7 @@
   ## Usage
   *Instructions and examples for use:*
   
-  📚 
+  📚 After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required fields and select from optional additional fields. The README will be created in the ./demo folder.
   
   *Demo*
 
