@@ -45,12 +45,10 @@
   ## Usage
   *Instructions and examples for use:*
   
-  📚 After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required fields and select from optional additional fields. The README will be created in the ./dist folder.
+  📚 
   
   *Demo*
   View a demonstration of the application:
-  
-![alt text](https://github.com/emilychhun/challenge9readme/blob/main/generator-emily.gif "Logo Title Text 1")
 
   <br />
   
@@ -58,7 +56,7 @@
   ## Licence
   📝📑
   
-  ![badge](https://img.shields.io/badge/license-Academic-brightgreen)
+  ![badge](https://img.shields.io/badge/license-GNU-brightgreen)
 
   <br />
   
